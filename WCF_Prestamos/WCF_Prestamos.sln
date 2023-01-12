@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.Prestamos.Dominio", "UTA.FISEI.Prestamos.Dominio\UTA.FISEI.Prestamos.Dominio.csproj", "{0436DAE7-5C14-40F3-B0E9-8CFFDEC3A572}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructura", "Infraestructura", "{F844F3D8-EEAC-4F2C-B7EE-ED3802C0BC7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicios", "Servicios", "{8863C1D9-74EB-4283-B9AB-8E8B39F2B231}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{1A3B2F37-641A-46AE-B755-F05C128BD44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.Prestamos.Contrato", "UTA.FISEI.Prestamos.Contrato\UTA.FISEI.Prestamos.Contrato.csproj", "{08AF34D9-7098-4F3A-9370-25DC8E13036B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.Prestamos.Implementacion", "UTA.FISEI.Prestamos.Implementacion\UTA.FISEI.Prestamos.Implementacion.csproj", "{117C945B-D495-4FCD-8656-4198F2AA4410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.Prestamos.WCFService", "UTA.FISEI.Prestamos.WCFService\UTA.FISEI.Prestamos.WCFService.csproj", "{FE4FD421-102B-4C7C-BE78-6580A0F49330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0436DAE7-5C14-40F3-B0E9-8CFFDEC3A572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0436DAE7-5C14-40F3-B0E9-8CFFDEC3A572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0436DAE7-5C14-40F3-B0E9-8CFFDEC3A572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0436DAE7-5C14-40F3-B0E9-8CFFDEC3A572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AF34D9-7098-4F3A-9370-25DC8E13036B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AF34D9-7098-4F3A-9370-25DC8E13036B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AF34D9-7098-4F3A-9370-25DC8E13036B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AF34D9-7098-4F3A-9370-25DC8E13036B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117C945B-D495-4FCD-8656-4198F2AA4410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117C945B-D495-4FCD-8656-4198F2AA4410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117C945B-D495-4FCD-8656-4198F2AA4410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117C945B-D495-4FCD-8656-4198F2AA4410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4FD421-102B-4C7C-BE78-6580A0F49330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4FD421-102B-4C7C-BE78-6580A0F49330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4FD421-102B-4C7C-BE78-6580A0F49330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4FD421-102B-4C7C-BE78-6580A0F49330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0436DAE7-5C14-40F3-B0E9-8CFFDEC3A572} = {1A3B2F37-641A-46AE-B755-F05C128BD44B}
+		{08AF34D9-7098-4F3A-9370-25DC8E13036B} = {8863C1D9-74EB-4283-B9AB-8E8B39F2B231}
+		{117C945B-D495-4FCD-8656-4198F2AA4410} = {8863C1D9-74EB-4283-B9AB-8E8B39F2B231}
+		{FE4FD421-102B-4C7C-BE78-6580A0F49330} = {8863C1D9-74EB-4283-B9AB-8E8B39F2B231}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DF177B-82ED-4649-8878-C7507A3DCD0D}
+	EndGlobalSection
+EndGlobal
