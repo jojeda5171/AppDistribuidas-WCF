@@ -53,6 +53,10 @@
       <Project>{0436dae7-5c14-40f3-b0e9-8cffdec3a572}</Project>
       <Name>UTA.FISEI.Prestamos.Dominio</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UTA.FISEI.Prestamos.Fachada\UTA.FISEI.Prestamos.Fachada.csproj">
+      <Project>{489b3154-455a-454c-add4-613598196444}</Project>
+      <Name>UTA.FISEI.Prestamos.Fachada</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

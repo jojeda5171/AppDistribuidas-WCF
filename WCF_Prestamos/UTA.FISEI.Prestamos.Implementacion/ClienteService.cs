@@ -2,19 +2,21 @@
 using System.Collections.Generic;
 using UTA.FISEI.Prestamos.Contrato;
 using UTA.FISEI.Prestamos.Dominio;
-
+using UTA.FISEI.Prestamos.Fachada;
 namespace UTA.FISEI.Prestamos.Implementacion
 {
     public class ClienteService : IClienteService
     {
         public Cliente obtenerCliente(String numeroDocumento)
         {
-            return null;
+            ClienteFachada obj = new ClienteFachada();
+            return obj.obtenerCliente(numeroDocumento);
         }
 
         public IEnumerable <Cliente> listarCliente()
         {
-            return null;
+            ClienteFachada obj = new ClienteFachada();
+            return obj.listarCliente();
         }
     }
 }

@@ -1,0 +1,9 @@
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\bin\Debug\UTA.FISEI.Prestamos.ContratoBD.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\bin\Debug\UTA.FISEI.Prestamos.ContratoBD.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\bin\Debug\UTA.FISEI.Prestamos.Dominio.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\bin\Debug\UTA.FISEI.Prestamos.Dominio.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\obj\Debug\UTA.FISEI.Prestamos.ContratoBD.csproj.AssemblyReference.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\obj\Debug\UTA.FISEI.Prestamos.ContratoBD.csproj.CoreCompileInputs.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\obj\Debug\UTA.FISEI.Prestamos.ContratoBD.csproj.CopyComplete
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\obj\Debug\UTA.FISEI.Prestamos.ContratoBD.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.ContratoBD\obj\Debug\UTA.FISEI.Prestamos.ContratoBD.pdb

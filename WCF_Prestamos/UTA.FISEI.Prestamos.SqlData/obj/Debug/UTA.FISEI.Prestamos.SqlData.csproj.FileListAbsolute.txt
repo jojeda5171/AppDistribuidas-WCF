@@ -1,0 +1,13 @@
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\UTA.FISEI.Prestamos.SqlData.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\UTA.FISEI.Prestamos.SqlData.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\Dapper.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\UTA.FISEI.Prestamos.ContratoBD.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\UTA.FISEI.Prestamos.Dominio.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\UTA.FISEI.Prestamos.ContratoBD.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\UTA.FISEI.Prestamos.Dominio.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\bin\Debug\Dapper.xml
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\obj\Debug\UTA.FISEI.Prestamos.SqlData.csproj.AssemblyReference.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\obj\Debug\UTA.FISEI.Prestamos.SqlData.csproj.CoreCompileInputs.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\obj\Debug\UTA.FISEI.Prestamos.SqlData.csproj.CopyComplete
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\obj\Debug\UTA.FISEI.Prestamos.SqlData.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.SqlData\obj\Debug\UTA.FISEI.Prestamos.SqlData.pdb

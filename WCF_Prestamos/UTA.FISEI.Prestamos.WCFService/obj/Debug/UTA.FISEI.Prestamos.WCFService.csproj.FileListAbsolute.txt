@@ -26,3 +26,11 @@ D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService
 D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\obj\Debug\UTA.FISEI.Prestamos.WCFService.csproj.CopyComplete
 D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\obj\Debug\UTA.FISEI.Prestamos.WCFService.dll
 D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\obj\Debug\UTA.FISEI.Prestamos.WCFService.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\UTA.FISEI.Prestamos.Fachada.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\UTA.FISEI.Prestamos.ContratoBD.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\UTA.FISEI.Prestamos.SqlData.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\Dapper.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\UTA.FISEI.Prestamos.Fachada.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\UTA.FISEI.Prestamos.ContratoBD.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\UTA.FISEI.Prestamos.SqlData.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.WCFService\bin\Dapper.xml

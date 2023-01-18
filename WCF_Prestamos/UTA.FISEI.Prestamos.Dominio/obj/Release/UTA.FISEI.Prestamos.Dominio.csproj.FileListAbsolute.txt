@@ -1,0 +1,6 @@
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\bin\Release\UTA.FISEI.Prestamos.Dominio.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\bin\Release\UTA.FISEI.Prestamos.Dominio.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Release\UTA.FISEI.Prestamos.Dominio.csproj.AssemblyReference.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Release\UTA.FISEI.Prestamos.Dominio.csproj.CoreCompileInputs.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Release\UTA.FISEI.Prestamos.Dominio.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Release\UTA.FISEI.Prestamos.Dominio.pdb

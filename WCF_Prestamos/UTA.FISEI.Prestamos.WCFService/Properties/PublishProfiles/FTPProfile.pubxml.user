@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAaKScDcG7VUCbL9foBE/+gQAAAAACAAAAAAAQZgAAAAEAACAAAACW7DZltZkH0bf4jsxIaPBLJ15ClSHHu2q8b9bmxuGw/QAAAAAOgAAAAAIAACAAAADeH5azuO0fSjIBHFsfHKbpdKNH5r5akqxaw5DMlYpmRDAAAAAUahdPEEDQ+XqIAIVitl1kimVr5O7a9OhSj4xi8qvSOCYQ5y/w93L08lVFiSohTkxAAAAAmY9xT5yzE5KcWG1Ta/blS2nbGKesYp3rgNvO4GBWF0vpaKT3b3b/Bc8ckI3kX+frTIfeOHfeR8iemgIy01lQbA==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.39/www.jojeda.somee.com</_PublishTargetUrl>
+    <History>True|2023-01-18T03:27:35.5562984Z;False|2023-01-17T22:26:26.7543317-05:00;False|2023-01-17T22:20:48.0530287-05:00;False|2023-01-17T22:16:57.5824628-05:00;False|2023-01-17T22:13:57.5060309-05:00;False|2023-01-17T22:12:13.5427345-05:00;False|2023-01-17T22:09:42.9023392-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Dapper.dll">
+      <publishTime>11/03/2021 09:07:30</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Contrato.dll">
+      <publishTime>01/17/2023 22:19:48</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Contrato.pdb">
+      <publishTime>01/17/2023 22:19:48</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.ContratoBD.dll">
+      <publishTime>01/17/2023 22:19:48</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.ContratoBD.pdb">
+      <publishTime>01/17/2023 22:19:48</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Dominio.dll">
+      <publishTime>01/17/2023 22:09:36</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Dominio.pdb">
+      <publishTime>01/17/2023 22:09:36</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Fachada.dll">
+      <publishTime>01/17/2023 22:19:49</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Fachada.pdb">
+      <publishTime>01/17/2023 22:19:49</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Implementacion.dll">
+      <publishTime>01/17/2023 22:19:49</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.Implementacion.pdb">
+      <publishTime>01/17/2023 22:19:49</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.SqlData.dll">
+      <publishTime>01/17/2023 22:19:49</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.SqlData.pdb">
+      <publishTime>01/17/2023 22:19:49</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.WCFService.dll">
+      <publishTime>01/17/2023 22:26:59</publishTime>
+    </File>
+    <File Include="bin/UTA.FISEI.Prestamos.WCFService.pdb">
+      <publishTime>01/17/2023 22:26:59</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>01/11/2023 16:02:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/17/2023 22:12:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

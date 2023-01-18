@@ -1,0 +1,17 @@
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.Fachada.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.Fachada.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.Contrato.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.ContratoBD.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.Dominio.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.SqlData.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\Dapper.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.ContratoBD.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.Contrato.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.Dominio.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\UTA.FISEI.Prestamos.SqlData.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\bin\Debug\Dapper.xml
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\obj\Debug\UTA.FISEI.Prestamos.Fachada.csproj.AssemblyReference.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\obj\Debug\UTA.FISEI.Prestamos.Fachada.csproj.CoreCompileInputs.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\obj\Debug\UTA.FISEI.Prestamos.Fachada.csproj.CopyComplete
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\obj\Debug\UTA.FISEI.Prestamos.Fachada.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Fachada\obj\Debug\UTA.FISEI.Prestamos.Fachada.pdb
