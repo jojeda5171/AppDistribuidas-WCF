@@ -9,14 +9,18 @@ namespace UTA.FISEI.Prestamos.Implementacion
     {
         public Cliente obtenerCliente(String numeroDocumento)
         {
-            ClienteFachada obj = new ClienteFachada();
-            return obj.obtenerCliente(numeroDocumento);
+            using (var obj = new ClienteFachada())
+            {
+                return obj.obtenerCliente(numeroDocumento);
+            }
         }
 
         public IEnumerable <Cliente> listarCliente()
         {
-            ClienteFachada obj = new ClienteFachada();
-            return obj.listarCliente();
+            using (var obj = new ClienteFachada())
+            {
+                return obj.listarCliente();
+            }
         }
     }
 }

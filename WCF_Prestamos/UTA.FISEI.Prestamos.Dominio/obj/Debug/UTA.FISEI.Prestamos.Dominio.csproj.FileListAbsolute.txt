@@ -4,3 +4,9 @@ C:\Users\josel\source\repos\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\
 C:\Users\josel\source\repos\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\UTA.FISEI.Prestamos.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\josel\source\repos\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\UTA.FISEI.Prestamos.Dominio.dll
 C:\Users\josel\source\repos\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\UTA.FISEI.Prestamos.Dominio.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\bin\Debug\UTA.FISEI.Prestamos.Dominio.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\bin\Debug\UTA.FISEI.Prestamos.Dominio.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\UTA.FISEI.Prestamos.Dominio.csproj.CoreCompileInputs.cache
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\UTA.FISEI.Prestamos.Dominio.dll
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\UTA.FISEI.Prestamos.Dominio.pdb
+D:\Repositorios\AppDistribuidas-WCF\WCF_Prestamos\UTA.FISEI.Prestamos.Dominio\obj\Debug\UTA.FISEI.Prestamos.Dominio.csproj.AssemblyReference.cache

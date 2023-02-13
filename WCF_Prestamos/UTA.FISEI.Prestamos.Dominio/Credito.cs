@@ -5,7 +5,7 @@ namespace UTA.FISEI.Prestamos.Dominio
 
 {
     [DataContract]
-    class Credito
+    public class Credito
     {
         [DataMember]
         public int idCreditp { get; set; }
